@@ -1,5 +1,3 @@
-# Untitled
-
 # Trilha de DevSecOps - Atividade Prática 2
 
 ## Documentação do segundo projeto proposto para a trilha DevSecOps do Programa de Bolsas CompassUOL, turma de Novembro de 2024.
